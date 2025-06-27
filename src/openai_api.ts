@@ -5,7 +5,7 @@ import {Config} from "./config";
 const superagent = require("superagent");
 
 // Endpoint for the OpenAI API codex completion
-const CODEX_URL = "https://api.openai.com/v1/engines/davinci-codex/completions";
+const CODEX_URL = "https://api.avalai.ir/v1/response";
 
 
 /**
